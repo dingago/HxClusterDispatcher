@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<targetService>HxClusterDispatcher.ui:saveServiceDispatch</targetService>
+<dispatchMode>STRICT</dispatchMode>
+<topServiceOnly>true</topServiceOnly>
+<loggingService>pub.flow:debugLog</loggingService>
+<logPipeline>false</logPipeline>
+<dispatchFlagField>$clusterDispatchingInitiator</dispatchFlagField>
+<failureSignalExpression>%messages[0]% == /^Failed.*$/</failureSignalExpression>
+<rollbackService>HxClusterDispatcher.ui:rollbackServiceDispatch</rollbackService>
+<rollbackFailureSignalExpression>%messages[0]% == /^Failed.*$/</rollbackFailureSignalExpression>
+<enabled>true</enabled>

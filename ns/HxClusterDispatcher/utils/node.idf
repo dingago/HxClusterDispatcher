@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_nsName">HxClusterDispatcher.utils</value>
+  <value name="is_public">false</value>
+  <value name="shared"></value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.softwareag.util.IDataMap</value>
+    <value>java.io.File</value>
+    <value>java.io.FileInputStream</value>
+    <value>java.io.FileOutputStream</value>
+    <value>java.io.FileWriter</value>
+    <value>java.io.FilenameFilter</value>
+    <value>java.io.IOException</value>
+    <value>java.io.OutputStreamWriter</value>
+    <value>java.io.Reader</value>
+    <value>java.io.StringReader</value>
+    <value>java.io.Writer</value>
+    <value>java.util.*</value>
+    <value>java.util.regex.Pattern</value>
+    <value>com.wm.app.b2b.server.*</value>
+    <value>com.wm.lang.ns.*</value>
+  </array>
+</Values>

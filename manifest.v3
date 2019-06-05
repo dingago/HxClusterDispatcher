@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">yes</value>
+  <value name="system_package">no</value>
+  <value name="version">1.0</value>
+  <record name="startup_services" javaclass="com.wm.util.Values">
+    <null name="HxClusterDispatcher.admin:startup"/>
+  </record>
+  <record name="shutdown_services" javaclass="com.wm.util.Values">
+    <null name="HxClusterDispatcher.admin:shutdown"/>
+  </record>
+  <null name="replication_services"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+  </record>
+  <value name="listACL">Default</value>
+  <value name="webappLoad">yes</value>
+  <value name="name">HxClusterDispatcher</value>
+  <value name="build"></value>
+  <null name="description"/>
+  <value name="time">2019-05-30 08:53:27 MDT</value>
+  <value name="jvm_version">1.8</value>
+  <value name="publisher">Xiaowei Wang</value>
+  <value name="patch_nums"></value>
+</Values>

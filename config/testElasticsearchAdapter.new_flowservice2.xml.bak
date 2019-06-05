@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<targetService>testElasticsearchAdapter:new_flowservice2</targetService>
+<dispatchMode>STRICT</dispatchMode>
+<topServiceOnly>false</topServiceOnly>
+<loggingService>pub.flow:debugLog</loggingService>
+<logPipeline>false</logPipeline>
+<dispatchFlagField>$clusterDispatchingInitiator</dispatchFlagField>
+<failureSignalExpression></failureSignalExpression>
+<rollbackService></rollbackService>
+<rollbackFailureSignalExpression></rollbackFailureSignalExpression>
+<enabled>false</enabled>

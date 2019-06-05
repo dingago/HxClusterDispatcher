@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">getAliasList</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFNYXAgcGlwZWxpbmVNYXAgPSBuZXcgSURhdGFNYXAocGlwZWxpbmUpOw0KDQpTdHJpbmdb
+XSBhbGlhc2VzID0gbmV3IFN0cmluZ1swXTsNClN0cmluZyBhbGlhc0xpc3QgPSBTeXN0ZW0uZ2V0
+UHJvcGVydHkoIndhdHQuc2VydmVyLmNsdXN0ZXIuYWxpYXNMaXN0IiwgbnVsbCk7DQppZiAoKGFs
+aWFzTGlzdCAhPSBudWxsKSAmJiAoYWxpYXNMaXN0Lmxlbmd0aCgpID4gMCkpIHsNCglTdHJpbmdU
+b2tlbml6ZXIgc3QgPSBuZXcgU3RyaW5nVG9rZW5pemVyKGFsaWFzTGlzdCwgIiwiKTsNCglhbGlh
+c2VzID0gbmV3IFN0cmluZ1tzdC5jb3VudFRva2VucygpXTsNCglpbnQgaSA9IDA7DQoJd2hpbGUg
+KHN0Lmhhc01vcmVUb2tlbnMoKSkgew0KCQlhbGlhc2VzWyhpKyspXSA9IHN0Lm5leHRUb2tlbigp
+LnRyaW0oKTsNCgl9DQp9DQoNCnBpcGVsaW5lTWFwLnB1dCgiYWxpYXNlcyIsIGFsaWFzZXMgKTs=
+</value>
+</Values>
